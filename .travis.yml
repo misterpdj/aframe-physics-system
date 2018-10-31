@@ -22,6 +22,3 @@ env:
   matrix:
     - CI_ACTION="npm run test:ci"
 
-branches:
-  only:
-    - master
