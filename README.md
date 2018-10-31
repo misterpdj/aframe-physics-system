@@ -1,4 +1,4 @@
-# Physics for A-Frame VR
+# Physics for A-Frame VR - Rotation Test
 
 [![Build Status](https://travis-ci.org/donmccurdy/aframe-physics-system.svg?branch=master)](https://travis-ci.org/donmccurdy/aframe-physics-system)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/donmccurdy/aframe-physics-system/master/LICENSE)
